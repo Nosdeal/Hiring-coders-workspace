@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@import url("https://use.typekit.net/hkh8byq.css");
+
+*{
+    --corfundo: #05E0F0;
+    --cortitulo: #040E50;
+
+    --fonttitulo: "carlmarx-handwriting-regular";
+}
+body{
+    background-color: var(--corfundo);
+}
+h1{
+    color: var(--cortitulo);
+    text-align: center;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.219);
+    font-family: var(--fonttitulo);
+    font-size: 2.5em;
+}

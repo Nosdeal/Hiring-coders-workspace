@@ -15,5 +15,5 @@ In the first week i learned more about HTML, CSS, Data structure, Agile methodol
       <- footer -> Is the bottom. 
        
 <- CSS -> <br>
-    This bring life for the website, it's sensational because, if CSS dindn't exist the page would be so boring.
+    This bring life for the website, it's sensational because, if CSS didn't exist the page would be so boring.
   

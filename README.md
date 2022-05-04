@@ -9,7 +9,7 @@ The professors are so clean in their explanations.
 In the first week i learned more about HTML, CSS, Data structure, Agile methodologies and Soft skilss.
 
 <- HTML -> <br>
-    I learned some things very interisting, like separate the parts of an HTML archive.
+    I learned some things very interisting, like separate the parts of an HTML archive. <br>
       <- header -> Is the top; <br>
       <- body -> The name speaks for itself; <br>
       <- footer -> Is the bottom. 

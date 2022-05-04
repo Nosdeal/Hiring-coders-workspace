@@ -8,12 +8,12 @@ The professors are so clean in their explanations.
 
 In the first week i learned more about HTML, CSS, Data structure, Agile methodologies and Soft skilss.
 
-<- HTML ->
+<- HTML -> <br>
     I learned some things very interisting, like separate the parts of an HTML archive.
-      <header> Is the top;
-      <body> The name speaks for itself;
-      <footer> Is the bottom.
+      <- header -> Is the top; <br>
+      <- body -> The name speaks for itself; <br>
+      <- footer -> Is the bottom. 
        
-<- CSS -> 
+<- CSS -> <br>
     This bring life for the website, it's sensational because, if CSS dindn't exist the page would be so boring.
   

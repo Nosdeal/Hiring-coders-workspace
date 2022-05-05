@@ -25,5 +25,8 @@ In the first week i learned more about HTML, CSS, Data structure, Agile methodol
     
 <- Soft skills -> <br>
     The most important things in the currently world. Communication, empaty, learn agility, solve complex problems. Nowadays these skills are essential to be a greatest professional. These skills are more important in the technology world yet. Where the transformation is very fast.
+
+<- Programming logic ->
+    
     
   

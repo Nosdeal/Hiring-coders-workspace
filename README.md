@@ -27,6 +27,13 @@ In the first week i learned more about HTML, CSS, Data structure, Agile methodol
     The most important things in the currently world. Communication, empaty, learn agility, solve complex problems. Nowadays these skills are essential to be a greatest professional. These skills are more important in the technology world yet. Where the transformation is very fast.
 
 <- Programming logic ->
+    This is a essential part in the world of development, because, if you don't know how to think the code before programming, you won't know how to create the things that you wanna do.
+    
+<- Git -> 
+    Whit the new world dynamic, it's paramount to have tools that possibility your share your knwoledges whit the must number of people, and consume their knowledges too. Git and Github provides this opportunities.
+    
+<- JavaScrypt ->
+
     
     
   

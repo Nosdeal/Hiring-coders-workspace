@@ -11,7 +11,7 @@
     <h1>Super formulário de cadastro de alunos x Cursos da Gama Academy</h1>
     <form id="Cadastro" method="post">
         <label>Nome do aluno:</label>
-        <input type="text" name="Nomedoaluno" placeholder="Digite seu nome!" required><br><br>
+        <input type="text" name="Nomedoaluno" placeholder="Digite seu nome!" required maxlength="30" oninvalid="this.setCustomValidity('Você deve preencher esse campo obrigatório')"onchange="try{setCustomValidity('')}catch(e){}"><br><br>
         <Label>Email do aluno:</Label>
         <input type="text" name="Emaildoaluno" placeholder="Digite seu email!" required>
         <input type="submit" value="enviar!">
